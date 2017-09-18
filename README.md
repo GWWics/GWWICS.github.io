@@ -1,2 +1,0 @@
-# WICS
-WiCS Website Repository
